@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "「僕は…」 / MyGO!!!!! cover ver.",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T02:11:00.816492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「僕は..",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/02_「僕は.._あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/03_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/04_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "うそつきだ、僕は",
+      "artist": "イトヲカシ",
+      "has_synced": true,
+      "path": "select/05_うそつきだ、僕は_イトヲカシ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "「僕は…」",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/06_「僕は...」_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "最低だ、僕は。",
+      "artist": "楠木ともり",
+      "has_synced": true,
+      "path": "select/07_最低だ、僕は。_楠木ともり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "「僕は...」 (Piano ver.)",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/08_「僕は...」_(Piano_ver.)_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "「僕は…」 (Piano ver.)",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/09_「僕は...」_(Piano_ver.)_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "最低だ、僕は。",
+      "artist": "Tomori Kusunoki",
+      "has_synced": false,
+      "path": "select/10_最低だ、僕は。_Tomori_Kusunoki.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "「僕は...」",
+      "artist": "ATARAYO",
+      "has_synced": false,
+      "path": "select/11_「僕は...」_ATARAYO.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "「僕は…」 / MyGO!!!!! cover ver.",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_「僕は...」___MyGO!!!!!_cover_ver._MyGO!!!!!.txt"
+    }
+  ]
+}
